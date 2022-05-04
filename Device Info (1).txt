@@ -1,0 +1,367 @@
+Device Info 3.2.24
+Date Created ২০২২-০৪-২৬ ১৬:২১:০৭
+
+Device
+--------------------------------------------------------
+Device Name : V2043
+Model : V2043
+Manufacturer : vivo
+Device : 2026
+Board : k65v1_64_bsp
+Hardware : mt6765
+Brand : vivo
+Build Fingerprint : vivo/2026EC/2026:11/RP1A.200720.012/compiler0307104724:user/release-keys
+USB Host : Supported
+
+
+System
+--------------------------------------------------------
+Android Version : 11
+Version Name : R
+Released Date : সেপ্টেম্বর ১১, ২০২০
+Code Name : Android 11
+API Level : 30
+Security Patch Level : 2022-03-01
+Bootloader : unknown
+Build Number : RP1A.200720.012 release-keys
+Baseband : MOLY.LR12A.R3.MP.V136.6.P96,MOLY.LR12A.R3.MP.V136.6.P96
+Java VM : 2.1.0
+Kernel : 4.19.127-gfe17e779f-dirty
+Language : বাংলা (bn_BD)
+OpenGL ES : 3.2
+Root Management Apps : No Apps Detected
+SELinux : Unable to determine
+Google Play Services : 22.12.15 (150400-439420056)
+Vulkan : Supported (1.1)
+Treble : Supported
+Seamless Updates : Not Supported
+
+
+CPU
+--------------------------------------------------------
+SoC : Mediatek MT6765 (12 nm)
+8 x Cortex-A53 (2.3 GHz)
+Processor : k65v1_64_bsp
+CPU Architecture : 4 x ২.৩০ GHz
+4 x ১.৮০ GHz
+Supported ABIs : arm64-v8a, armeabi-v7a, armeabi
+CPU Hardware : MT6765V/CB
+CPU Type : 64 Bit
+CPU Governor : 
+Cores : 8
+CPU Frequency : 400 MHz - 2301 MHz
+GPU Renderer : PowerVR Rogue GE8320
+GPU Vendor : Imagination Technologies
+GPU Version : OpenGL ES 3.2 build 1.13@5776728
+
+
+Battery
+--------------------------------------------------------
+Health : Good
+Level : 80%
+Status : Discharging
+Power Source : Battery
+Technology : Li-poly
+Temperature : 37 ℃
+Voltage : 4132 mV
+
+
+
+Display
+--------------------------------------------------------
+Resolution : 720 x 1600 Pixels
+Density : 300 dpi (HDPI)
+Font Scale : 1.0
+Physical Size : 6.5 inches
+Refresh Rate : ৬০.০ Hz,
+HDR : Not Supported
+HDR Capabilities : None
+Brightness Level : 10%
+Brightness Mode : Manual
+Screen Timeout : 30 Seconds
+Orientation : Portrait
+
+
+Memory
+--------------------------------------------------------
+Random Access Memory
+------------------
+Type : LPDDR4X 1600 MHz
+Total : ৩৮০৬.০MB
+Available : ১১৮৪.০MB
+Used : ২৮৯২.০MB
+Used Percentage : 68%
+
+System Storage
+------------------
+Total : ৩.১৫GB
+Available : ০.০০GB
+Used : ৩.১৫GB
+Used Percentage : 100%
+
+Internal Storage
+------------------
+Total : ৪৯.৫৮GB
+Available : ৩৯.৮০GB
+Used : ৯.৭৮GB
+Used Percentage : 19%
+
+
+Camera
+--------------------------------------------------------
+Camera - 0
+------------------
+Position : Back
+Mega Pixels : 8.0 MP
+Resolution : 4160x1872
+Focal Length : 3.65mm
+
+Camera - 1
+------------------
+Position : Front
+Mega Pixels : 8.0 MP
+Resolution : 3264x2448
+Focal Length : 2.53mm
+
+
+
+Sensors
+--------------------------------------------------------
+ACCELEROMETER
+------------------
+Vendor : lis2hh12
+Type : ACCELEROMETER
+Power : 0.001mA
+
+MAGNETOMETER
+------------------
+Vendor : MTK
+Type : MAGNETIC FIELD
+Power : 0.001mA
+
+ORIENTATION
+------------------
+Vendor : MTK
+Type : ORIENTATION
+Power : 0.001mA
+
+GYROSCOPE
+------------------
+Vendor : virtual_gyro
+Type : GYROSCOPE
+Power : 0.001mA
+
+LIGHT
+------------------
+Vendor : MTK
+Type : LIGHT
+Power : 0.001mA
+
+PROXIMITY
+------------------
+Vendor : MTK
+Type : PROXIMITY
+Power : 0.001mA
+
+GRAVITY
+------------------
+Vendor : MTK
+Type : GRAVITY
+Power : 0.001mA
+
+LINEARACCEL
+------------------
+Vendor : MTK
+Type : LINEAR ACCELERATION
+Power : 0.001mA
+
+ROTATION_VECTOR
+------------------
+Vendor : MTK
+Type : ROTATION VECTOR
+Power : 0.001mA
+
+GAME_ROTATION_VECTOR
+------------------
+Vendor : MTK
+Type : GAME ROTATION VECTOR
+Power : 0.001mA
+
+SIGNIFICANT_MOTION
+------------------
+Vendor : MTK
+Type : SIGNIFICANT MOTION
+Power : 0.001mA
+
+STEP_DETECTOR
+------------------
+Vendor : MTK
+Type : STEP DETECTOR
+Power : 0.001mA
+
+STEP_COUNTER
+------------------
+Vendor : MTK
+Type : STEP COUNTER
+Power : 0.001mA
+
+GEOMAGNETIC_ROTATION_VECTOR
+------------------
+Vendor : MTK
+Type : GEOMAGNETIC ROTATION VECTOR
+Power : 0.001mA
+
+DEVICE_ORIENTATION
+------------------
+Vendor : MTK
+Type : DEVICE ORIENTATION
+Power : 0.001mA
+
+STATIONARY_DETECT
+------------------
+Vendor : MTK
+Type : STATIONARY DETECT
+Power : 0.001mA
+
+MOTION_DETECT
+------------------
+Vendor : MTK
+Type : MOTION DETECT
+Power : 0.001mA
+
+WINDOW_ORIENTATION
+------------------
+Vendor : VIVO
+Type : PRIVATE SENSOR
+Power : 0.001mA
+
+ANGLE_JUDGE
+------------------
+Vendor : MTK
+Type : PRIVATE SENSOR
+Power : 0.001mA
+
+AMD
+------------------
+Vendor : MTK
+Type : PRIVATE SENSOR
+Power : 0.001mA
+
+RAISEUP_DETECT
+------------------
+Vendor : MTK
+Type : PRIVATE SENSOR
+Power : 0.001mA
+
+PUTDOWN_DETECT
+------------------
+Vendor : MTK
+Type : PRIVATE SENSOR
+Power : 0.001mA
+
+STEP_DETECTOR_WAKEUP
+------------------
+Vendor : MTK
+Type : STEP DETECTOR
+Power : 0.001mA
+
+
+
+Apps
+--------------------------------------------------------
+Google One
+com.google.android.apps.subscriptions.red
+Version : 1.144.440133127
+
+InShot
+com.camerasideas.instashot
+Version : 1.815.1352
+
+Messenger লাইট
+com.facebook.mlite
+Version : 298.0.0.14.115
+
+Google পডকাস্ট
+com.google.android.apps.podcasts
+Version : 1.0.0.403811697
+
+WhatsApp
+com.whatsapp
+Version : 2.22.8.79
+
+Instagram
+com.instagram.android
+Version : 232.0.0.16.114
+
+Duo
+com.google.android.apps.tachyon
+Version : 164.0.439182979.duo.android_20220403.14_p0
+
+Daraz
+com.daraz.android
+Version : 5.1.2
+
+Eyecon
+com.eyecon.global
+Version : 3.0.405
+
+Google Ads
+com.google.android.apps.adwords
+Version : 2.41.438904386
+
+টুইটার
+com.twitter.android
+Version : 9.39.0-release.0
+
+Drive
+com.google.android.apps.docs
+Version : 2.22.154.2.all.alldpi
+
+imo HD
+com.imo.android.imoimhd
+Version : 2022.03.2058
+
+Fit
+com.google.android.apps.fitness
+Version : 2.77.1.arm64-v8a.release
+
+TikTok
+com.zhiliaoapp.musically
+Version : 24.2.4
+
+Lite
+com.facebook.lite
+Version : 300.0.0.7.111
+
+Device Info
+com.ytheekshana.deviceinfo
+Version : 3.2.24
+
+লক
+com.android.bbk.lockscreen3
+Version : 5.0
+
+YT স্টুডিও
+com.google.android.apps.youtube.creator
+Version : 22.14.100
+
+Booking.com
+com.booking
+Version : 31.6.1
+
+Teen Patti Gold
+com.teenpatti.hd.gold
+Version : 6.53
+
+imo
+com.imo.android.imoim
+Version : 2022.03.3091
+
+YouTube Music
+com.google.android.apps.youtube.music
+Version : 5.02.50
+
+Google News
+com.google.android.apps.magazines
+Version : 5.51.0.438353990
+
